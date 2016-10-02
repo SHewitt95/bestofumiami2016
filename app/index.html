@@ -31,18 +31,41 @@
       <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
-    <div class="container">
-      <div class="header">
+    <!--div class="logo-holder">
+      <h1 class="logo">The Miami Hurricane</h1>
+    </div-->
+
+    <div class="my-container">
 
         <hamburguer-menu>
-          <menu-item text="Arts and Culture"></menu-item>
+          <menu-item text="Around Campus"></menu-item>
+          <menu-item text="Arts & Culture"></menu-item>
+          <menu-item text="Food & Drink"></menu-item>
           <menu-item text="Locations"></menu-item>
-          <menu-item text="link 3"></menu-item>
+          <menu-item text="Voters' Choice"></menu-item>
         </hamburguer-menu>
 
-      </div> <!-- End header -->
+
+      <div class="top-body">
+
+      </div>
 
       <div class="main-body">
+
+        <!-- Add an optional button to open the popup -->
+         <!--button class="my_popup_open">Open popup</button-->
+
+         <!-- Add content to the popup -->
+         <div id="my_popup">
+
+           ...popup content...
+
+           <!-- Add an optional button to close the popup -->
+           <button class="my_popup_close">Close</button>
+
+         </div> <!-- End my_popup -->
+
+         <div class="grid"></div>
 
       </div>
 
@@ -87,7 +110,7 @@
 
     <!-- build:js scripts/vendor.js -->
     <!-- bower:js -->
-    <script src="/bower_components/jquery/dist/jquery.js"></script>
+    <script src="/bower_components/jquery/dist/jquery.min.js"></script>
     <script src="/bower_components/bootstrap/dist/js/bootstrap.js"></script>
     <script src="/bower_components/desandro-matches-selector/matches-selector.js"></script>
     <script src="/bower_components/fizzy-ui-utils/utils.js"></script>
@@ -95,13 +118,13 @@
     <script src="/bower_components/ev-emitter/ev-emitter.js"></script>
     <script src="/bower_components/outlayer/outlayer.js"></script>
     <script src="/bower_components/masonry/masonry.js"></script>
-    <script src="/bower_components/isotope/js/isotope.js"></script>
+    <script src="/bower_components/isotope/dist/isotope.pkgd.min.js"></script>
     <script src="/bower_components/webcomponentsjs/webcomponents.js"></script>
     <!-- endbower -->
     <!-- endbuild -->
 
     <!-- build:js scripts/plugins.js -->
-    <script src="/bower_components/jquery/dist/jquery.min.js"></script>
+    <!--script src="/bower_components/jquery/dist/jquery.min.js"></script-->
     <script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="/bower_components/bootstrap-sass/assets/javascripts/bootstrap/affix.js"></script>
     <script src="/bower_components/bootstrap-sass/assets/javascripts/bootstrap/alert.js"></script>
@@ -115,8 +138,8 @@
     <script src="/bower_components/bootstrap-sass/assets/javascripts/bootstrap/scrollspy.js"></script>
     <script src="/bower_components/bootstrap-sass/assets/javascripts/bootstrap/collapse.js"></script>
     <script src="/bower_components/bootstrap-sass/assets/javascripts/bootstrap/tab.js"></script>
-    <script src="bower_components/webcomponentsjs/webcomponents-lite.min.js"></script>
-
+    <script src="/bower_components/webcomponentsjs/webcomponents-lite.min.js"></script>
+    <script src="/bower_components/jquery-popup-overlay/jquery.popupoverlay.js"></script>
     <!-- endbuild -->
 
     <!-- build:js scripts/main.js -->

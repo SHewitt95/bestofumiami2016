@@ -98,8 +98,14 @@ body {
 }
 
 .my-container {
+  max-width: 1500px;
+
   width: 100%;
   margin: 0 auto;
+}
+
+.my-container p {
+  font-size: 1.25em;
 }
 
 header {
@@ -113,6 +119,44 @@ header {
   height: 500px;
   border: 1px solid black;
   margin: 0 auto;
+}
+
+.mid-body {
+  max-width: 1200px;
+  width:80%;
+  height:auto;
+  margin:10px auto;
+}
+
+.intro-text {
+  padding-top: 5px;
+  padding-left: 7px;
+  padding-right: 7px;
+}
+
+.sort-box-holder {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.sort-box-holder p {
+  border:1px solid black;
+  margin: 10px;
+  display: inline-block;
+  padding: 15px;
+  /*background-color: blue;*/
+}
+
+.sort-box-holder p:hover {
+  cursor: pointer;
+}
+
+.sort-box p {
+  margin:0;
+  padding: 0;
 }
 
 .main-body {
@@ -191,3 +235,76 @@ img {
   display: inline-block;
   border: 0;
 }
+
+.top-body img {
+  max-width: 800px;
+  height: auto;
+  overflow: hidden;
+  display: block;
+  margin: 0 auto;
+}
+
+.backtotop {
+  /*position: fixed;*/
+  position: fixed;
+  top:500px;
+  left:0;
+  padding: 5px;
+  border: 1px solid black;
+  background-color: blue;
+}
+
+.backtotop p {
+  font-weight: bold;
+}
+
+.backtotop:hover {
+  cursor: pointer;
+}
+
+@media screen and (max-width: 1240px) {
+  .main-body {
+    width: 750px;
+  }
+}
+
+@media screen and (max-width: 785px) {
+  .main-body {
+    width: 340px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .mid-body {
+    width:100%;
+  }
+
+  .sort-box-holder {
+
+  }
+
+  .main-body {
+    width: 320px;
+  }
+
+  .box {
+    width:100%;
+    margin-left:0;
+    margin-right: 0;
+  }
+
+  .sort-box-holder {
+    width:100%;
+  }
+}
+/*
+@media screen and (max-width: 376px) {
+  .grid {
+    width: 95%;
+  }
+
+  .box {
+    margin-left:0;
+    margin-right: 0;
+  }
+}*/

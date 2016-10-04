@@ -1,6 +1,3 @@
-console.log('\'Allo \'Allo!');
-
-
 $(document).ready(function() {
 
   function makeBoxes() {
@@ -36,7 +33,7 @@ $(document).ready(function() {
       $grid.append($box);
     });
 
-    $('.grid').isotope({
+    $grid.isotope({
        // options
        itemSelector: '.box'
        //layoutMode: 'fitRows'
@@ -45,7 +42,7 @@ $(document).ready(function() {
      //console.log(bestOfData);
   }
 
-  function makeSinglePage(e) {
+  function makeSinglePage() {
     var that = $(this);
     var category = $('.category');
     var categoryname = $('.category-name');
@@ -58,8 +55,30 @@ $(document).ready(function() {
     blurb.text(that.data('blurb'));
   }
 
+  function doFilter() {
+    var $grid =  $('.grid');
+    var $that = $(this);
+    var $box = $('.box');
+
+    $grid.isotope({
+      filter: function(i,d) {
+        if ($that.text() == "Visitors' Choice") {
+          return $(d).data('voted') == 'yes';
+
+        } else if ($that.text() == "View All") {
+          return true;
+
+        } else {
+          return $that.text() == $(d).data('category');
+        }
+      }
+    })
+
+  }
+
   makeBoxes();
   $('.box').click(makeSinglePage);
+  $('.sort-box-holder p').click(doFilter);
 
      // Initialize the plugin
      $('#my_popup').popup({
@@ -68,5 +87,20 @@ $(document).ready(function() {
         transition: '0.3s',
         scrolllock: true
      });
+
+     //Check to see if the window is top if not then display button
+	$(window).scroll(function(){
+		if ($(this).scrollTop() > 1200) {
+			$('.backtotop').fadeIn();
+		} else {
+			$('.backtotop').fadeOut();
+		}
+	});
+
+	//Click event to scroll to top
+	$('.backtotop').click(function(){
+		$('html, body').animate({scrollTop : 500},800);
+		return false;
+	});
 
 });

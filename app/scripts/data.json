@@ -121,9 +121,9 @@ var bestOfData = [
     "photo url": "",
     "photographer": "",
     "website": "",
-    "address": "",
-    "phone": "",
-    "blurb": ""
+    "address": "Cox Science Building, 1301 Memorial Dr, Coral Gables, FL 33146",
+    "phone": "305-284-1302",
+    "blurb": "Located behind the Knight Physics Building, the Arboretum offers beautiful scenery and a peaceful atmosphere, a wonderful escape from the hustle and bustle of school life. This collection of a variety of trees is used for teaching and research purposes but also is open to anyone simply wanting to surround themselves with nature. Although it borders a street, the Arboretum is nevertheless calming and serene. The area is cool thanks to the shade that the trees bring. Butterflies and chirping birds are some of the sights and sounds that make up a walk on the winding mulch path. In addition, the benches that dot the space can serve as scenic studying spots. Each tree is accompanied by information about its name and region of origin. An African Mahogany, a Chinese Lantern Tree and an Oiticica Oil Tree are some of the many plants that can be found here. Guided tours and lectures are held during the year if you’re looking for an even more enriching experience. Open Sunday through Saturday, admission is free to the public."
   },
   {
     "name": "Runway club, Doral",
@@ -224,7 +224,7 @@ var bestOfData = [
     "blurb": ""
   },
   {
-    "name": "",
+    "name": "Azucar Ice Cream Co.",
     "category": "Food & Drink",
     "fake photo": "fakephoto_food",
     "category section": "Best place to satisfy your sweet tooth",
@@ -238,7 +238,7 @@ var bestOfData = [
     "blurb": "Azucar Ice Cream Co. Established in 2011, Azucar Ice Cream Company expertly incorporates traditional Cuban fruits and flavors into their yummy treats. Nestled on the famous Calle Ocho in Miami’s cultural hub of Little Havana, the Azucar Ice Cream Company offers a perfect blend of fun and tasty with their unique ice cream. Cafe con leche, Avocado and Mantecado are just a few of their delicious Cuban inspired flavors. To give you an idea of how eclectic their treats are, their most popular flavor, Abuela Maria, is a mix of vanilla ice cream, cream cheese, guava and Maria cookies. Prices start at $4 and go up with each scoop you add. In addition to ice cream, they have sorbets, coffees, milkshakes, smoothies and T-shirts with amusing “Cuban dichos” (Cuban sayings) like, “¡Ya tu sabes!” The shop is open Sundays from 11 a.m to 10 p.m., Monday through Wednesday from 11 a.m. to 9 p.m. and Thurdays through Saturdays from 11 a.m. to 11 p.m."
   },
   {
-    "name": "Azucar Ice Cream Co.",
+    "name": "El Rey de las Fritas",
     "category": "Food & Drink",
     "fake photo": "fakephoto_food",
     "category section": "Best hole in the wall",
@@ -252,7 +252,7 @@ var bestOfData = [
     "blurb": "El Rey de las Fritas is the place to go if you’re looking for classic Cuban food. The original El Rey de las Fritas opened in 1976 on 8th Street, making it a landmark in the Miami community. Since then, three more have opened up, one in Hialeah, one on Bird Road and one on Flagler Street. The restaurant is famous for their “frita cubana,” a Cuban-style burger made with a ground-beef patty with sauteed onions and a secret sauce and topped with fries. The restaurant is open Monday through Sunday from 8 a.m. to 10:30 p.m. Prices typically range under $10."
   },
   {
-    "name": "El Rey de las Fritas",
+    "name": "El Carajo",
     "category": "Food & Drink",
     "fake photo": "fakephoto_food",
     "category section": "Best hidden restaurant",
@@ -266,7 +266,7 @@ var bestOfData = [
     "blurb": "Located just off of South Dixie Hwy, El Carajo offers an intimate tapas experience. Known for its impressive and eclectic collection of wines, El Carajo is also known for its delicious food with a menu that is centered around Spanish cuisine. The inviting atmosphere of one of Miami’s best-kept secrets makes this a favorite for visitors and locals. If you’re looking for an amazing dining experience with good food and friends, El Carajo is the place for you. Open 8 a.m. to 10 p.m."
   },
   {
-    "name": "El Carajo",
+    "name": "The Broken Shaker",
     "category": "Food & Drink",
     "fake photo": "fakephoto_food",
     "category section": "Best hidden bar",
@@ -280,7 +280,7 @@ var bestOfData = [
     "blurb": "The Broken Shaker, tucked away inside Freehand Miami, a modern hotel and hostel, offers handcrafted cocktails that are prepared by skilled bartenders. With an emphasis on locally grown ingredients and a menu that changes every three weeks, the bar shows visitors a side of Miami quite unlike the high speed and heat of busier popular spots. Ditch the sweaty nightclubs and loud, booming raves for a local experience that pleases tourists and native Miamians alike. Sip on sweet drinks while sitting below hundreds of soft, relaxing light bulbs. Perfect for food, drinks and discreet people-watching, The Broken Shaker is a great way to spend an evening catching up with old friends. Open Monday to Friday from 6 p.m. to 2 a.m. and weekends from 1 p.m. to 2 a.m."
   },
   {
-    "name": "The Broken Shaker",
+    "name": "Grown",
     "category": "Food & Drink",
     "fake photo": "fakephoto_food",
     "category section": "Best healthy restaurant",
@@ -294,24 +294,10 @@ var bestOfData = [
     "blurb": "With Miami’s pressure on people to think about what they’re putting into their body and look slim, healthy eating has become a type of fad. Grown is indeed Miami’s best healthy restaurant. Located on S Dixie Highway, Grown is a casual restaurant, so jeans and a t-shirt would suffice if you’d like to walk in. If you don’t feel like getting out of your pajamas, no worries, because this restaurant delivers and also has a drive through. Dishes are relatively well-priced, but may be slightly expensive for the average college student. Ordering is unique at this restaurant: you customize your entree by choosing your protein, veggie, grain and sauce. Juice and smoothies are also available, but not customizable. This restaurant is open for breakfast, lunch and dinner, from 8 a.m. to 9 p.m., 7 days a week."
   },
   {
-    "name": "Grown",
-    "category": "Food & Drink",
-    "fake photo": "fakephoto_food",
-    "category section": "Best authentic food",
-    "voted": "yes",
-    "author": "Mukta Vibhute",
-    "photo url": "",
-    "photographer": "",
-    "website": "",
-    "address": "",
-    "phone": "",
-    "blurb": ""
-  },
-  {
     "name": "Tap Tap",
     "category": "Food & Drink",
     "fake photo": "fakephoto_food",
-    "category section": "Best bang for your buck",
+    "category section": "Best authentic food",
     "voted": "no",
     "author": "Mukta Vibhute",
     "photo url": "",
@@ -325,6 +311,20 @@ var bestOfData = [
     "name": "El Palacio de los Jugos",
     "category": "Food & Drink",
     "fake photo": "fakephoto_food",
+    "category section": "Best bang for your buck",
+    "voted": "no",
+    "author": "Mukta Vibhute",
+    "photo url": "",
+    "photographer": "",
+    "website": "",
+    "address": "",
+    "phone": "",
+    "blurb": ""
+  },
+  {
+    "name": "Mark Light Shakes",
+    "category": "Food & Drink",
+    "fake photo": "fakephoto_food",
     "category section": "Best food on campus",
     "voted": "yes",
     "author": "Adrianne Babun-Chavarria",
@@ -336,7 +336,7 @@ var bestOfData = [
     "blurb": ""
   },
   {
-    "name": "Mark Light Shakes",
+    "name": "Denny's",
     "category": "Food & Drink",
     "fake photo": "fakephoto_food",
     "category section": "Best late-night food",
@@ -350,8 +350,8 @@ var bestOfData = [
     "blurb": ""
   },
   {
-    "name": "Denny's",
-    "category": "Food & Drink",
+    "name": "Bikram Hot Yoga 305",
+    "category": "Locations",
     "fake photo": "fakephoto_food",
     "category section": "Best sweat",
     "voted": "no",
@@ -364,7 +364,7 @@ var bestOfData = [
     "blurb": "A new establishment, Bikram Hot Yoga 305 opened in summer of 2014. As a welcoming, community-driven center for yogis of all skill sets, Bikram Hot Yoga 305 is the place to practice traditional Bikram Hot Yoga, which consists of 26 of the 84 Hatha Yoga postures and two breathing exercises. Each class is 90 minutes long and follows the traditional Bikram Hot Yoga method. Plus, it’s hot – 105 degrees, to be exact. Yogis should be prepared to get physical, break out into a sweat and have fun focusing on health. It’s important for visitors to remember to bring a yoga mat, towel and water bottle, though there are rentals and drinks available at the establishment. Classes run from 9 a.m. to 7:30 p.m., with variable times depending on the day of the week. Doors close when class starts, so don’t be late. Classes start at $30."
   },
   {
-    "name": "Bikram Hot Yoga 305",
+    "name": "Bargain Barn (Miami Midtown)",
     "category": "Locations",
     "fake photo": "fakephoto_locations",
     "category section": "Best thrift store",
@@ -378,7 +378,7 @@ var bestOfData = [
     "blurb": "Bargain Barn, a thrift store in Wynwood’s design district, features low-priced goods, ranging from furniture, to home decor and clothing. With a range of great deals, it’s a top pick for secondhand couches, chairs and tables. Stop by to poke around with friends, save some dough while grabbing college dorm essentials, or pick out a sofa for your first apartment. The Barn is sponsored by Miami Rescue Mission, an organization that helps the homeless, so both donations and funds go toward a good cause. Next time you’re checking out the Wynwood Walls, stop by Bargain Barn and poke around. Bargain Barn is open 9 a.m. to 5 p.m. Mondays through Saturdays and is closed on Sundays."
   },
   {
-    "name": "Miami Midtown",
+    "name": "Sweat Records Miami",
     "category": "Locations",
     "fake photo": "fakephoto_locations",
     "category section": "Best throwback",
@@ -392,7 +392,7 @@ var bestOfData = [
     "blurb": "For those who listen to vinyl and for those who love music, Sweat Records is a must. In addition to being one of Miami’s only indie record stores, Sweat Records is a coffee shop and event space, too. It is located in northern Miami near Churchill’s Pub. The facade of the building is draped in a beautiful musical mural that includes Daft Punk, MF Doom, David Bowie and the Notorious B.I.G. The store is small, yet it boasts an impressive collection for visitors to peruse. The store is open noon to 10 p.m. Mondays through Saturdays, and noon to 5 p.m. on Sundays."
   },
   {
-    "name": "Sweat Records Miami",
+    "name": "Bardot",
     "category": "Locations",
     "fake photo": "fakephoto_locations",
     "category section": "Best music venue",
@@ -406,7 +406,7 @@ var bestOfData = [
     "blurb": "Local musicians, bands and DJs perform at Bardot, a cool, calm lounge in Miami’s Design District. If you’re expecting a big, booming dance floor or crazy, flashing lights, you’re in for a shock. The intimate venue features musical guests every night and allows for guest reservations and applications to book a performance on their website. A bar serves a wide variety of delicious drinks. Open 10 p.m. to 5 a.m. Tuesday through Saturday, closed Sunday through Monday, make sure to start your weekend off right with a trip to Bardot."
   },
   {
-    "name": "Bardot",
+    "name": "Spanish Monastery",
     "category": "Locations",
     "fake photo": "fakephoto_locations",
     "category section": "Best historical landmark",
@@ -420,7 +420,7 @@ var bestOfData = [
     "blurb": "The Cloisters of St. Bernard de Clairvaux, also known as the Ancient Spanish Monastery, was built in the 10th century. This historic landmark was originally in Segovia, Spain, but was relocated to North Miami Beach and rebranded as an Episcopalian church. The cloisters’ journey to the U.S. – brought about through William Randolph Hearst’s purchase – was a mission that Time Magazine dubbed “the biggest jigsaw puzzle in history.” It currently houses a variety of Romanesque and pre-Gothic artifacts, ranging from Pope Urban VII’s clothing cabinet to two out of the three remaining telescopic windows from the medieval period, and beautiful botanical gardens to boot. Be sure to channel your inner Chaucer by embarking on a mini-pilgrimage through the hidden labyrinth on the nature path. All in all, it’s a totally immersive experience into a place that not only feels separated from current times, but also feels foreign in Miami. Admission is $5 for students and $10 for adults. Open Monday through Saturday from 10 a.m. to 4:30 p.m., and Sunday from 11 a.m. to 4:30 p.m."
   },
   {
-    "name": "Spanish Monastery",
+    "name": "Dinner at Miracle Mile",
     "category": "Locations",
     "fake photo": "fakephoto_locations",
     "category section": "Best first date spot",
@@ -434,26 +434,12 @@ var bestOfData = [
     "blurb": ""
   },
   {
-    "name": "Dinner at Miracle Mile",
+    "name": "Pine Tree Park",
     "category": "Locations",
     "fake photo": "fakephoto_locations",
     "category section": "Best place to get fresh air",
     "voted": "no",
     "author": "Mukta Vibhute",
-    "photo url": "",
-    "photographer": "",
-    "website": "",
-    "address": "",
-    "phone": "",
-    "blurb": ""
-  },
-  {
-    "name": "Pine Tree Park",
-    "category": "Locations",
-    "fake photo": "fakephoto_locations",
-    "category section": "",
-    "voted": "no",
-    "author": "",
     "photo url": "",
     "photographer": "",
     "website": "",

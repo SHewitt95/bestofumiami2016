@@ -48,21 +48,33 @@ $(document).ready(function() {
     var categoryname = $('.category-name');
     var name = $('.name');
     var blurb = $('.blurb');
+    var author = $('.author');
+    var photographer = $('.photographer');
+    var address = $('.address');
+    var phoneNumber = $('.phone-number');
 
-    category.text(that.data('category'));
+    //category.text(that.data('category'));
     categoryname.text(that.data('category section'));
     name.text(that.data('name'));
     blurb.text(that.data('blurb'));
+    author.text("Words by " + that.data('author'));
+    photographer.text("Photo by " + that.data('photographer'));
+    address.text(that.data('address'));
+    phoneNumber.text(that.data('phone'));
   }
 
   function doFilter() {
     var $grid =  $('.grid');
     var $that = $(this);
     var $box = $('.box');
+    var $buttons = $('.sort-box-holder p');
+
+    $buttons.css('background-color', '#7CBD9F');
+    $that.css('background-color', '#479A3E');
 
     $grid.isotope({
       filter: function(i,d) {
-        if ($that.text() == "Visitors' Choice") {
+        if ($that.text() == "Voters' Choice") {
           return $(d).data('voted') == 'yes';
 
         } else if ($that.text() == "View All") {
@@ -75,6 +87,20 @@ $(document).ready(function() {
     })
 
   }
+
+  $(window).scroll(function(){
+		if ($(this).scrollTop() > 1200) {
+			$('.backtotop').fadeIn();
+		} else {
+			$('.backtotop').fadeOut();
+		}
+	});
+
+	//Click event to scroll to top
+	$('.backtotop').click(function(){
+		$('html, body').animate({scrollTop : 250},800);
+		return false;
+	});
 
   makeBoxes();
   $('.box').click(makeSinglePage);
@@ -89,18 +115,6 @@ $(document).ready(function() {
      });
 
      //Check to see if the window is top if not then display button
-	$(window).scroll(function(){
-		if ($(this).scrollTop() > 1200) {
-			$('.backtotop').fadeIn();
-		} else {
-			$('.backtotop').fadeOut();
-		}
-	});
 
-	//Click event to scroll to top
-	$('.backtotop').click(function(){
-		$('html, body').animate({scrollTop : 500},800);
-		return false;
-	});
 
 });

@@ -14,7 +14,7 @@ $(document).ready(function() {
     }*/
 
     bestOfData.forEach(function(d) {
-      $box = $('<div class="box my_popup_open"><img src="/images/' + d["fake photo"] + '.jpg" /></div>');
+      $box = $('<div class="box my_popup_open"><img src="images/' + d['fake photo'] + '.jpg" /></div>');
 
       $box.data({'address': d['address']});
       $box.data({'author': d['author']});
@@ -57,8 +57,8 @@ $(document).ready(function() {
     categoryname.text(that.data('category section'));
     name.text(that.data('name'));
     blurb.text(that.data('blurb'));
-    author.text("Words by " + that.data('author'));
-    photographer.text("Photo by " + that.data('photographer'));
+    author.text('Words by ' + that.data('author'));
+    photographer.text('Photo by ' + that.data('photographer'));
     address.text(that.data('address'));
     phoneNumber.text(that.data('phone'));
   }
@@ -74,10 +74,10 @@ $(document).ready(function() {
 
     $grid.isotope({
       filter: function(i,d) {
-        if ($that.text() == "Voters' Choice") {
+        if ($that.text() == 'Voters\' Choice') {
           return $(d).data('voted') == 'yes';
 
-        } else if ($that.text() == "View All") {
+        } else if ($that.text() == 'View All') {
           return true;
 
         } else {

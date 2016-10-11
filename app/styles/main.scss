@@ -239,8 +239,8 @@ h3.category, h3.category-name, h3.name {
   min-width: 240px;
   max-width: 340px;
   width: 100%;
-  height: 300px;
-  border: 1px solid black;
+  /*height: 300px;*/
+  height: auto;
   /*margin: 0 auto;*/
   margin: 10px 2%;
   /*display: inline-block;*/
@@ -252,12 +252,7 @@ h3.category, h3.category-name, h3.name {
   cursor: pointer;
 }
 
-.popup-img-container {
-  width: 100%;
-  /*max-height: 800px;*/
-  max-width: 1024px;
-  overflow: hidden;
-}
+
 
 img {
   width:100%;
@@ -265,18 +260,46 @@ img {
   border: 0;
 }
 
+.popup-img-container {
+  width: 100%;
+  /*max-height: 800px;*/
+  max-width: 700px;
+  overflow: hidden;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.author {
+  margin-top: 0px;
+}
+
+.category-name {
+  font-weight: bold;
+}
+
+.name, .category-name {
+  display: inline-block;
+}
+
+
+
 .top-img-holder {
   max-width: 1024px;
   width: 100%;
+  /*max-height: 880px;*/
+  height: auto;
   overflow: hidden;
   display: block;
   margin: 0 auto;
   position: relative;
-  z-index: -1;
+  /*background-image: url("../images/BestofUmiami_Brick.png");
+  background-size: cover;*/
+  /*z-index: -1;*/
 }
 
 .top-img-holder img {
-  bottom:30px;
+  position: relative;
+  bottom:25px;
 }
 
 .backtotop {
@@ -298,6 +321,10 @@ img {
 
 .backtotop:hover {
   cursor: pointer;
+}
+
+.photographer {
+  /*margin-bottom: 35px;*/
 }
 
 @media screen and (max-width: 1240px) {

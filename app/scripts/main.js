@@ -23,18 +23,20 @@ $(document).ready(function() {
           $box.data({'voted': d['voted']});
           $box.data({'website': d['website']});
 
+          $box.prepend('<div class="bg-color-green"><p class="center-text bold-text">' + d['category section'] + '<p/></div>');
+          //$box.prepend('<div class=""><p class="center-text bold-text">' + d['category section'] + '<p/></div>');
           $grid.append($box);
-      //  }
-
-
 
       });
 
-      $grid.isotope({
-         // options
-         itemSelector: '.box',
-         layoutMode: 'fitRows'
-       });
+       $grid.imagesLoaded( function() {
+          // init Isotope after all images have loaded
+          $grid.isotope({
+            // options
+            itemSelector: '.box',
+            layoutMode: 'masonry'
+          });
+        });
 
     }
 
@@ -102,6 +104,7 @@ $(document).ready(function() {
   	});
 
     makeBoxes();
+
     $('.box').click(makeSinglePage);
     $('.sort-box-holder p').click(doFilter);
 

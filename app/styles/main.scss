@@ -135,6 +135,7 @@ header {
   width:80%;
   height:auto;
   margin:10px auto;
+  margin-bottom: 30px;
 }
 
 .intro-text {
@@ -201,6 +202,11 @@ span.my_popup_close {
   font-weight: bold;
   top:10px;
   right:25px;
+  color: white;
+}
+
+span.my_popup_close:hover {
+  color:red;
 }
 
 button.my_popup_close {
@@ -242,7 +248,7 @@ h3.category, h3.category-name, h3.name {
   /*height: 300px;*/
   height: auto;
   /*margin: 0 auto;*/
-  margin: 10px 2%;
+  margin: 0px 2% 50px 2%;
   /*display: inline-block;*/
   vertical-align: middle;
   overflow: hidden;
@@ -284,7 +290,7 @@ img {
 
 
 .top-img-holder {
-  max-width: 1024px;
+  max-width: 880px;
   width: 100%;
   /*max-height: 880px;*/
   height: auto;
@@ -300,6 +306,7 @@ img {
 .top-img-holder img {
   position: relative;
   bottom:25px;
+  box-shadow: 0 0 5px 10px white;
 }
 
 .backtotop {
@@ -310,7 +317,7 @@ img {
   left:0;
   padding: 5px;
   padding-left: 8px;
-  background-color: #7CBD9F;
+  background-color: #479A3E;
 }
 
 .backtotop p {
@@ -325,6 +332,18 @@ img {
 
 .photographer {
   /*margin-bottom: 35px;*/
+}
+
+.center-text {
+  text-align: center;
+}
+
+.bg-color-green {
+  background-color: #7CBD9F;
+}
+
+.bold-text {
+  font-weight: bold;
 }
 
 @media screen and (max-width: 1240px) {

@@ -2,404 +2,373 @@ var bestOfData = [
   {
     "name": "UC Pool",
     "photo url": "WVUM Pool Party_OZ-2.jpg",
+    "photographer": "Oliver Zaruba, Staff Photographer",
     "category": "Around Campus",
     "blurb": "Do you resent the lack of sunlight in your classroom buildings? Slather on some sunscreen and uphold the university's old nickname, \"Suntan U,\" with a trip to the UC Pool. The pool is the best place to lie down, catch some rays and ignore all of your mundane responsibilities, like school and work. Be sure to check the calendar for special events like WVUM pool parties or scuba diving lessons. Open Monday to Thursday from 11 a.m. to 7 p.m., Fridays from 11 a.m. to 8 p.m., and on Saturdays and Sundays from noon to 5 p.m. Pool visits are free for current UM students and faculty.",
     "address": "1330 Miller Drive Coral Gables, Florida 33146",
     "phone": "305-284-3622",
     "author": "Haley Walker",
     "category section": "Best outdoor activity",
-    "voted": "yes",
-    "": "",
-    "photographer": ""
+    "voted": "yes"
   },
   {
     "name": "The U Statue",
     "photo url": "U Statue_BS.jpg",
+    "photographer": "Ben Spiro, Staff Photographer",
     "category": "Around Campus",
     "blurb": "For students and families celebrating a special occasion at the University of Miami, the U Statue is a classic backdrop to use for a quick photo. Located next to the Rock and the green, the oversized logo of our university was a Student Government initiative that quickly became a central part of campus. Though it's a popular photo spot for college tours and graduation, there's no occasion required to show Cane spirit at the U Statue. Take a quick selfie on the way to class – it’s always great to be a Miami Hurricane!",
     "address": "",
     "phone": "",
     "author": "Amanda Perez",
     "category section": "Best photo op",
-    "voted": "yes",
-    "": "",
-    "photographer": ""
+    "voted": "yes"
   },
   {
     "name": "People-watching at Late Night Dining",
-    "photo url": "",
+    "photo url": "BestofUmiami_Brick.png",
+    "photographer": "Savanah DeBrosse, Designer",
     "category": "Around Campus",
     "blurb": "Forget partying all night, why go out when there’s an evening’s worth of entertainment right in the dining hall? Late night dining is not only one of the best things to happen to the food scene at UMiami, but it’s also the best place to people-watch. At the Hecht-Stanford Dining Hall, from 11 p.m. to 2 a.m. Thursdays through Saturdays and 9 p.m. to midnight on Sundays, a diverse mix of students can be found grabbing a late-night snack. After a certain point, the pajama-clad diners get lost in the crowd of partiers on their way back from a rager, all dressed to the nines and heading toward the fries. People can be seen dancing in their seats, bursting out in loud laughter in the middle of the floor and maybe even (but hopefully not) struggling to keep their balance after having a bit too much fun.",
     "address": "",
     "phone": "",
     "author": "Katya Saunders",
     "category section": "Best nighttime activity",
-    "voted": "no",
-    "": "",
-    "photographer": ""
+    "voted": "no"
   },
   {
     "name": "Moss Terrace at SSC",
     "photo url": "Lakeside Patio_AP.jpg",
+    "photographer": "Amanda Prats, Staff Photographer",
     "category": "Around Campus",
     "blurb": "The Moss Terrace on the third floor of the Shalala Student Center provides a perfect view of Lake Osceola, the lovely Cobb Fountain and our beautiful campus. The balcony has egg-shaped chairs and tables where students can gather to study or mingle. At sunset, the balcony highlights the sparkling beauty of campus, and as the sun disappears, lights around the balcony provide a calm ambience. The SSC was planned to showcase forward-thinking modernism, and the terrace is the apex of such designs. Any time of day, the Moss Terrace is the perfect place to remember that we’re lucky to attend such a beautiful school, where the sun shines and the palm trees are plenty. Take your date here to cap off a wonderful night, bring friends to catch up on the latest gossip or call home and talk to your family while looking out at the jumping fish and resting ibises.",
     "address": "",
     "phone": "",
     "author": "Esther Ponce De Leon",
     "category section": "Best view",
-    "voted": "yes",
-    "": "",
-    "photographer": ""
+    "voted": "yes"
   },
   {
     "name": "The canal in front of the Wellness Center",
     "photo url": "Pokemon Canal_NG.jpg",
+    "photographer": "Nick Gangemi, Contributing Photographer",
     "category": "Around Campus",
     "blurb": "The canal by the Wellness Center is the best place to catch Pokémon. This area is populated with Slowpokes, Magikarps, Psyducks, Goldeens and even Dratini. At any given time, five or six Pokémon will appear on your phone’s screen for you to catch. To catch Pokémon without even having to get up, set a lure module by the Hecht-Stanford bridge or in front of the gym. Whether you're determined to level up in Pokémon GO or if you just happen to walk by the area often, the canal is a worthy pitstop on your journey to catch 'em all.",
     "address": "",
     "phone": "",
     "author": "Stephanie Perez",
     "category section": "Best place to catch Pokémon",
-    "voted": "no",
-    "": "",
-    "photographer": ""
+    "voted": "no"
   },
   {
     "name": "The Foote Green",
     "photo url": "Foote Green_BS.jpg",
+    "photographer": "Ben Spiro, Staff Photographer",
     "category": "Around Campus",
     "blurb": "When it’s time to dump a sizzled flame, look for a quiet, open expanse of fresh grass and lovely scenery: the Foote Green, right next to Richter Library. With walkways leading to all parts of campus, the Green is the perfect spot to dump your significant other, as you’ll have a quick getaway if things turn sour. Plus, the Green is often buzzing with events, so you could call it quits in front of an audience to add some drama to your dumping. Or choose a time with less activity for a private, secluded spot to break the news gently. Freshman year is a time for growing up and moving on, and the Green sets the scene to help you move past your lackluster love life.",
     "address": "",
     "phone": "",
     "author": "Amanda Perez",
     "category section": "Best place to dump your freshman boyfriend/girlfriend",
-    "voted": "yes",
-    "": "",
-    "photographer": ""
+    "voted": "yes"
   },
   {
     "name": "Second floor of the SSC",
     "photo url": "SSC Studying_BS.jpg",
+    "photographer": "Ben Spiro, Staff Photographer",
     "category": "Around Campus",
     "blurb": "The Shalala Student Center, the largest building at the heart of UM’s Coral Gables campus, houses hundreds of student organizations, clubs and activities. On the second floor, there are plenty of tables and couches to sit down and study in the atrium and in the Student Organization Suite. If you’re afraid of the dead silence of the Richter stacks, but need more peace and quiet than your rowdy dorm floor can offer, the second floor of the SSC is the perfect compromise. Plus, a fresh, hot latte is just a few steps away downstairs at the Starbucks located inside the building. Don’t forget a pair of headphones or earbuds just in case a club meeting gets crazy. The Shalala Student Center is open 24 hours a day.",
     "address": "1330 Miller Dr, Miami, FL 33146",
     "phone": "305-284-4351",
     "author": "Stephanie Perez",
     "category section": "Best study spot",
-    "voted": "yes",
-    "": "",
-    "photographer": ""
+    "voted": "yes"
   },
   {
     "name": "University Village",
     "photo url": "UV Living area_BS.jpg",
+    "photographer": "Ben Spiro, Staff Photographer",
     "category": "Around Campus",
     "blurb": "University Village is the best place on campus to pretend to be an independent adult. With a full kitchen and laundry machines, this residential space is perfect for microwave-noodle chefs. Once you've earned 60 credits, you can apply for a spot in the UV, with its full-sized beds and fully-furnished living rooms. Best yet, you'll have plenty of room to put your TV, where you can enjoy free cable, including HBO. Earn your stripes freshman and sophomore years by living in the dorms, then upgrade to livin’ large with hundreds of your upperclassmen friends.",
     "address": "1527 Albenga Avenue, Coral Gables, FL 33146",
     "phone": "305-284-3680",
     "author": "Haley Walker",
     "category section": "Best residential building",
-    "voted": "yes",
-    "": "",
-    "photographer": ""
+    "voted": "yes"
   },
   {
     "name": "The Aboretum",
     "photo url": "Arboretum_AP.jpg",
+    "photographer": "Amanda Prats, Staff Photographer",
     "category": "Around Campus",
     "blurb": "Located behind the Knight Physics Building, the Arboretum offers a peaceful getaway from the hustle and bustle of school life. This collection of a variety of trees is used for teaching and research purposes but also is open to anyone simply wanting to surround themselves with nature. Although it borders a road, the Arboretum is nevertheless calming and serene. The area is shaded by the trees, and butterflies and bird chirps are some of the sights and sounds that one might find along the winding mulch path. In addition, the benches that dot the space can serve as scenic spots to relax. Each tree is accompanied by information about its name and region of origin. An African Mahogany, a Chinese Lantern Tree and an Oiticica Oil Tree are some of the many plants that can be found here. Guided tours and lectures are held during the year if you’re looking for an even more enriching experience. Open seven days of the week, admission is free to the public.",
     "address": "Cox Science Building, 1301 Memorial Dr, Coral Gables, FL 33146",
     "phone": "305-284-1302",
     "author": "Katya Saunders",
     "category section": "Best place to get in touch with nature",
-    "voted": "yes",
-    "": "",
-    "photographer": ""
+    "voted": "yes"
   },
   {
     "name": "Runway Club, Doral",
     "photo url": "Runway Club_SM.jpg",
+    "photographer": "Samuel Montero, Contributing Photographer",
     "category": "Arts & Culture",
     "blurb": "“Fete ‘til you fall” at Runway, the spot for Caribbean food and fun. Tired of hitting up the same old clubs and parties every weekend? Spice up your Fridays with a trip to Runway, a Caribbean club located in Doral that is bound to shake up your routine. It’s the perfect place to experience the culture of the West Indies and “buss a wine” while you’re at it. The party runs on Fridays from 6 p.m. to 3:30 a.m. As the night progresses, the sweeping outdoor venue fills with people from every background. The atmosphere is fueled by a mix of soca, dancehall and reggae hits that play all night long. The club also serves popular Caribbean dishes like jerk chicken for when you get hungry after dancing. The club is 18+ and ladies get in free while guys pay $10 after midnight.",
     "address": "3635 NW 78th Ave, Miami, Florida 33166",
     "phone": "954-709-7242",
     "author": "Katya Saunders",
     "category section": "Best cultural immersion",
-    "voted": "no",
-    "": "",
-    "photographer": ""
+    "voted": "no"
   },
   {
     "name": "MiFo LGBT Film Festival",
     "photo url": "MiFo_Courtesy.jpg",
+    "photographer": "MiFo LGBT Film Festival",
     "category": "Arts & Culture",
     "blurb": "Combining Miami and Fort Lauderdale to form “MiFo,” MiFo LGBT Film Festival holds two events per year in Miami, in April, and Fort Lauderdale, in October. Films featured in the festival represent the LGBT community and offer unique perspectives on gay, lesbian, bisexual, transexual and sexuality-related topics. The festival is also the largest LGBT-community arts event in South Florida. The Miami festival runs 10 days and features more than 65 films. For MiFo members, tickets are discounted. For members of the general public, tickets start at $13. The Fort Lauderdale festival will open with film “Strike a Pose” on 8 p.m., Friday, Oct. 7.",
     "address": "6360 NE 4th Court Miami, FL 33138",
     "phone": "305-751-6305",
     "author": "Alyssa Bolt",
     "category section": "Best festival",
-    "voted": "no",
-    "": "",
-    "photographer": ""
+    "voted": "no"
   },
   {
     "name": "Bakehouse Art Complex",
     "photo url": "Bakehouse Art Complex_OZ.jpg",
+    "photographer": "Oliver Zaruba, Staff Photographer",
     "category": "Arts & Culture",
     "blurb": "Originally a bakery that was abandoned in the 1920s, this building was transformed into a non-profit art complex in 1986. Today, having just hit its 30th year as an establishment, Bakehouse Art Complex has two galleries, a print room, classroom, photo lab, ceramic kiln, jewelry studio, woodworking and welding areas and more than 60 individual artist studios. The collections feature art of all forms, mediums and sizes imaginable. With affordable rent and a supportive, creative environment, Bakehouse offers the perfect place for budding artists to hone their craft and show their artwork to visitors, and the perfect place for locals to get a taste of what's new in the art community. Open every day from 12-5 p.m. Admission and parking are free.",
     "address": "561 NW 32nd Street Miami FL 33127",
     "phone": "305-576-2828",
     "author": "Alyssa Bolt",
     "category section": "Best museum",
-    "voted": "no",
-    "": "",
-    "photographer": ""
+    "voted": "no"
   },
   {
     "name": "Sound Off ™ Silent Disco",
     "photo url": "Silent Disco_Courtesy.jpg",
+    "photographer": "Masson Liang",
     "category": "Arts & Culture",
     "blurb": "Presented by Sound Off Miami and The Wynwood Yard, Sound Off ™ Silent Disco is a surprising way to get your groove on. Every other Saturday night, D.J.s play hip-hop, EDM, R&B, Latin and Top 40 hits through wireless headphones. Guests can pick the tunes they listen to by switching between channels at any time. The best part? You won’t be crammed inside a dark, crowded nightclub. The event is held outside in a beautiful garden, so you’ll have plenty of room to gab with your friends, grab a drink and dance the night away. The event is 21+ and street parking is available nearby. Guests can dance from 11 p.m. to 2 a.m. Tickets run $5-15 online, and a limited number are available for $20 at the door.",
     "address": "The Wynwood Yard 56 NW 29th St. Miami, FL",
     "phone": "305-771-4810",
     "author": "Alyssa Bolt",
     "category section": "Best dance party",
-    "voted": "no",
-    "": "",
-    "photographer": ""
+    "voted": "no"
   },
   {
     "name": "Linda Howard, \"Kuan",
     "photo url": "Kuan Sculpture_BS.jpg",
+    "photographer": "Ben Spiro, Staff Photographer",
     "category": "Arts & Culture",
     "blurb": "Kuan,\" a large, intimidating contemporary sculpture that stands just outside the Richter library and Miller Circle, was designed in 1976 by Linda Howard, an American sculptor who is best known for her large-scale, outdoor pieces. The sculpture's tall aluminum beams create a crisp, clean shape evocative of a narrow doorway or an air conditioning vent. Although many sculptures were voted on in our student poll, \"Kuan\" is an iconic landmark on campus because of its central location. Unlike many of the other sculpture on campus, which are relatively isolated from sidewalks and walkways, \"Kuan\" is directly integrated into the pedestrian path. Thousands of people pass by the area everyday, and the sculpture has become a familiar part of the day-to-day trek to class or work for many. The looming sculpture serves as not just art but also a place for birds to perch, a slight source of shade, a temporary shelter against the rain and just something to rest your eyes against.",
     "address": "",
     "phone": "",
     "author": "Stephanie Perez",
     "category section": "Best sculpture on campus",
-    "voted": "yes",
-    "": "",
-    "photographer": ""
+    "voted": "yes"
   },
   {
     "name": "Coconut Grove Fashion + Art + Music festival",
     "photo url": "Coconut Grove FAM_Courtesy.jpg",
+    "photographer": "Coconut Grove Business Improvement District",
     "category": "Arts & Culture",
     "blurb": "The first Saturday of every month from October to April, locals can get their Grove on and dance the night away to live music, appreciate art, watch fashion shows and enjoy food and drink. The FAM festival is held to help local businesses and artists in the creative district with self-promotion, so many shops and restaurants give special offers, and art galleries open their doors to the public. Businesses like Panther Coffee, Art Box Miami and La Gamba restaurant have freebies, activities or discounts for visitors, and local artists can be seen painting \"en plein air\" during the night. The festival runs from 6-9 p.m. in the Coconut Grove district. The next FAM festival will be held Nov. 5.",
     "address": "Coconut Grove",
     "phone": "305-461-5506",
     "author": "Alyssa Bolt",
     "category section": "Best monthly event",
-    "voted": "no",
-    "": "",
-    "photographer": ""
+    "voted": "no"
   },
   {
     "name": "Azucar Ice Cream Co.",
     "photo url": "Azucar_SC.jpg",
+    "photographer": "Shreya Chidarala, Staff Photographer",
     "category": "Food & Drink",
     "blurb": "Nestled on the famous Calle Ocho in Miami’s cultural hub of Little Havana, Azucar Ice Cream Company expertly incorporates traditional Cuban fruits and flavors into their frozen treats. Café con leche, Avocado and Mantecado are just a few of their delicious Cuban-inspired flavors. Azucar’s most popular flavor, Abuela Maria, is a mix of vanilla ice cream, cream cheese, guava and Maria cookies. Prices start at $4 and go up with each scoop you add. In addition to ice cream, they have sorbets, coffees, milkshakes, smoothies and T-shirts with amusing Cuban “dichos” (sayings) like, “¡Ya tú sabes!” The shop is open 11 a.m to 10 p.m. on Sunday, 11 a.m. to 9 p.m. Monday through Wednesday, and 11 a.m. to 11 p.m Thursday through Saturday.",
     "address": "1503 SW 8th St, Miami, FL 33135",
     "phone": "305-381-0369",
     "author": "Katya Saunders",
     "category section": "Best place to satisfy your sweet tooth",
-    "voted": "no",
-    "": "",
-    "photographer": ""
+    "voted": "no"
   },
   {
     "name": "El Rey de las Fritas",
     "photo url": "El Rey_HC.jpg",
+    "photographer": "Hunter Crenian, Staff Photographer",
     "category": "Food & Drink",
     "blurb": "El Rey de las Fritas is the place to go if you’re looking for classic Cuban food. The original El Rey de las Fritas opened in 1976 on 8th Street, otherwise known as Calle Ocho, making it a landmark in the Miami community. Since then, three more locations have opened up, one in Hialeah, one on Bird Road and one on Flagler Street. The restaurant is famous for their “frita cubana,” a Cuban-style burger made with a ground-beef patty, sauteed onions and a secret sauce, topped with fries. The restaurant is open every day from 8 a.m. to 10 p.m. Prices typically fall under $10.",
     "address": "1821 SW 8th St, Miami, FL 33135",
     "phone": "305-644-6054",
     "author": "Stephanie Perez",
     "category section": "Best hole in the wall",
-    "voted": "no",
-    "": "",
-    "photographer": ""
+    "voted": "no"
   },
   {
     "name": "El Carajo",
     "photo url": "El Carajo_HC.jpg",
+    "photographer": "Hunter Crenian, Staff Photographer",
     "category": "Food & Drink",
     "blurb": "Located just off of South Dixie Highway, El Carajo offers an intimate tapas experience. Visitors may mistakenly pass by the local favorite, which to the uncritical eye like a gas station convenience store. However, behind the unsophisticated exterior is a fully-furnished sit-down restaurant, with walls of wine racks, wooden rafters, and brick wall details reminiscent of the Iberian countryside. Besides its eclectic collection of wines, El Carajo is also known for its delicious food with a menu that is centered around Spanish small plates. The unique yet inviting atmosphere makes this a favorite for visitors and locals. Open noon to 10 p.m. Monday through Wednesdays, 11 a.m. to 11 p.m. Thursdays through Saturdays, and 11 a.m. to 10 p.m. Sundays. Stop by for a tasty Spanish tapas experience paired with a glass of your favorite vino while catching up with old friends.",
     "address": "2465 SW 17th Ave. in Miami",
     "phone": "305-644-6054",
     "author": "Tristan Niskanen",
     "category section": "Best hidden restaurant",
-    "voted": "no",
-    "": "",
-    "photographer": ""
+    "voted": "no"
   },
   {
     "name": "Broken Shaker",
     "photo url": "Broken Shaker 1_HM.jpg",
+    "photographer": "Hallee Meltzer, Photo Editor",
     "category": "Food & Drink",
     "blurb": "Tucked away inside Freehand Miami, The Broken Shaker is a modern hotel and hostel offering handcrafted cocktails prepared by extraordinarily skilled bartenders. With an emphasis on locally grown ingredients and a menu that changes every three weeks, the bar shows visitors a side of Miami quite unlike the high speed and heat of busier popular spots. Sip on sweet drinks while sitting below hundreds of soft, relaxing light bulbs. Perfect for food, drinks and discreet people-watching, The Broken Shaker is a great way to spend an evening catching up with old friends. Open Monday to Friday from 6 p.m. to 2 a.m. and weekends from 1 p.m. to 2 a.m.",
     "address": "2727 Indian Creek Drive, Miami Beach, FL 33140",
-    "phone": "786-476-7011",
+    "phone": "305-531-2727",
     "author": "Alyssa Bolt",
     "category section": "Best hidden bar",
-    "voted": "no",
-    "": "",
-    "photographer": ""
+    "voted": "no"
   },
   {
     "name": "Grown",
     "photo url": "Grown_HM.jpg",
+    "photographer": "Hallee Meltzer, Photo Editor",
     "category": "Food & Drink",
     "blurb": "In Miami, there's always pressure to look good, but Grown's healthy food can make your body feel good as well. Located on South Dixie Highway, Grown is a casual restaurant that also offers delivery and drive-through. Dishes are relatively well-priced, but they might be slightly expensive for the average college student. Juices and smoothies are $9-10 apiece, acai bowls are $12, and omelettes start at $8. Customers order entrees by choosing a protein, veggie, grain and sauce. This restaurant is open for breakfast, lunch and dinner, from 8 a.m. to 9 p.m., seven days a week.",
     "address": "8211 S Dixie Hwy, Miami, FL 33143",
     "phone": "305-663-4769",
     "author": "Mukta Vibhute",
     "category section": "Best healthy restaurant",
-    "voted": "no",
-    "": "",
-    "photographer": ""
+    "voted": "no"
   },
   {
     "name": "Tap Tap",
-    "photo url": "",
+    "photo url": "TapTap_VM.jpg",
+    "photographer": "Victoria McKaba, Photo Editor",
     "category": "Food & Drink",
     "blurb": "Tap Tap is a delicious destination for adventurous eaters. The South Beach restaurant serves authentic Haitian food that will put an end to the cravings you never even knew you had. Don’t be fooled by the beat-up restaurant exterior; with colorful chairs and bright beautiful murals, Tap Tap will surprise you once you step foot into the door. The menu can be a little difficult to understand if you’re not Haitian, but the waiters are helpful, so don’t hesitate to ask questions. For an appetizer, try the Plat Frittay, a fried platter of plantains, sweet potato, akra (taro root) and Taso Kabrit (fried goat tidbits). For an entree, try the shrimp in coconut curry, which comes with rice and plantains. Open every day from noon to 11 p.m., there’s sure to be time to fit a visit into your schedule and treat your tastebuds to something new.",
     "address": "819 Fifth St. Miami Beach, Fla. 33139",
     "phone": "305-672-2898",
     "author": "Mukta Vibhute",
     "category section": "Best authentic food",
-    "voted": "no",
-    "": "",
-    "photographer": ""
+    "voted": "no"
   },
   {
     "name": "El Palacio de los Jugos",
     "photo url": "Palacio de los Jugos_HC.jpg",
+    "photographer": "Hunter Crenian, Staff Photographer",
     "category": "Food & Drink",
     "blurb": "Waiting on payday to fill your pockets back up but feeling tired of your own home cooking? Check out El Palacio de los Jugos. This delicious, authentic Cuban business is located on Flagler St., though there are multiple additional locations throughout Miami. Both city locals and UM students agree, you’re missing out big time if you don’t give this place a chance. From far away, it looks like a gas station or another outdoor flea. However, El Palacio has gained renown for its variety of different stands, featuring sandwiches, seafood, juices and more. If you can’t decide what to try, order the camarones (shrimp), which come with arroz congrí (rice cooked with black beans) and yuca. For another option, try the cerdo (pork) kebab. Portions are enormous – big enough to the point you’ll have enough to take back to the dorm for a midnight snack for both you and your roommate. Don’t forget to try the juices (it is the Palace of Juices, after all). The coconut juice will cool and refresh anyone suffering in the Miami heat. Prices are affordable, so don’t worry about saving up to splurge. Open 8 a.m. to 9 p.m. Monday through Saturday, and 8 a.m. to 8 p.m. on Sunday.",
     "address": "5721 W. Flagler St. Miami, Fla. 33144",
     "phone": "305-262-0070",
     "author": "Mukta Vibhute",
     "category section": "Best bang for your buck",
-    "voted": "no",
-    "": "",
-    "photographer": ""
+    "voted": "no"
   },
   {
     "name": "Mark Light Shakes",
     "photo url": "Mark Light Milkshakes.jpg",
+    "photographer": "Mark Light Shakes",
     "category": "Food & Drink",
     "blurb": "Some days, sushi rolls and big bowls of salad from the food court just don't cut it. Some days, you need a milkshake so decadent it will make your knees weak, and that's when Freedman's Milkshakes save the day. The famous milkshakes are sold by longtime \"Milkshake Man\" Mitch Freedman at Alex Rodriguez Park during baseball games, and students have been flocking to the stadium ever since word got out about the rich, creamy shakes. Freedman offers more traditional flavors like mocha, vanilla, banana and fudge, but also has sweets like a sip-able cheesecake brownie, inspired by a recipe his wife used to make. Not a fan of cheesecake? There are more than 20 flavors and a number of add-ins to create the perfect treat. Ditch the torturously long lines at the typical on-campus dining spots and satisfy the raging beast in your stomach with a milkshake instead. And good news, at around $6, it will probably be even cheaper than your usual meal. Available at Alex Rodriguez Park at Mark Light Field, $6 and up at every home game during the spring baseball season.",
     "address": "Alex Rodriguez Park at Mark Light Field, 6201 San Amaro Drive, Coral Gables",
     "phone": "305-284-4171",
     "author": "Isabella Cueto",
     "category section": "Best food on campus",
-    "voted": "yes",
-    "": "",
-    "photographer": ""
+    "voted": "yes"
   },
   {
     "name": "Denny's",
     "photo url": "Denny's_HC.jpg",
+    "photographer": "Hunter Crenian, Staff Photographer",
     "category": "Food & Drink",
     "blurb": "It’s 3 a.m., there’s no food in the fridge, you’re insanely hungry and nearly nothing is open. Denny’s is the place to go to solve your situation. Denny’s serves classic American food that satisfies late-night munchies without emptying your pockets. If you’re feeling breakfast for dinner, try the Belgian Waffle Slam. This includes a Belgian waffle, two sausage links, two eggs and two bacon strips for about $9. If you’re into pancakes, you should check out the incredibly soft and savory buttermilk pancakes. However, if you’re not a big breakfast person, Denny’s also has salads and dinner entrees such as salmon and chicken. Satisfy any late-night craving right across the street from campus.",
     "address": "1150 S. Dixie Highway, Coral Gables, Fla. 33146",
     "phone": "305-666-6250",
     "author": "Mukta Vibhute",
     "category section": "Best late-night food",
-    "voted": "yes",
-    "": "",
-    "photographer": ""
+    "voted": "yes"
   },
   {
     "name": "Bikram Hot Yoga",
     "photo url": "Bikram Hot Yoga_SM.jpg",
+    "photographer": "Samuel Montero, Contributing Photographer",
     "category": "Locations",
     "blurb": "Opened in summer of 2014, Bikram Hot Yoga 305 is a welcoming, community-driven center for yogis of all skill sets. It's the ultimate spot for practicing traditional Bikram Hot Yoga, which consists of 26 of the 84 Hatha Yoga postures and two breathing exercises. Plus, it’s hot – 105 degrees Fahrenheit, to be exact. The large practice room is fully heated and lined wall-to-wall with mirrors. Yogis should be prepared to get physical, break out into a sweat and have fun focusing on health. Classes are 90 minutes long and cost $30, and they run from 9 a.m. to 7:30 p.m., with variable times depending on the day of the week. Doors close when class starts, so don’t be late.",
     "address": "5820 Commerce Ln South Miami, FL 33143",
-    "phone": "305-668-2288",
+    "phone": "305-785-7633",
     "author": "Alyssa Bolt",
     "category section": "Best sweat",
-    "voted": "no",
-    "": "",
-    "photographer": ""
+    "voted": "no"
   },
   {
     "name": "Bargain Barn (Miami Midtown)",
-    "photo url": "",
+    "photo url": "BestofUmiami_Brick.png",
+    "photographer": "Savanah DeBrosse, Designer",
     "category": "Locations",
     "blurb": "Bargain Barn, a thrift store in Wynwood, features low-priced furniture, home decor, clothing and more. With a range of great deals, it’s a top pick for secondhand couches, chairs and tables. Stop by to poke around with friends, save some dough while grabbing college dorm essentials or pick out a sofa for your first apartment. The Barn is sponsored by Miami Rescue Mission, an organization that helps the homeless, so your purchases will go toward a good cause. Next time you’re checking out the Wynwood Walls, stop by Bargain Barn and poke around. Bargain Barn is open 9 a.m. to 5 p.m. Monday through Saturday and is closed on Sundays.",
     "address": "2233 NW 1 Ct. Miami, FL 33137",
     "phone": "305-572-2063",
     "author": "Alyssa Bolt",
     "category section": "Best thrift store",
-    "voted": "no",
-    "": "",
-    "photographer": ""
+    "voted": "no"
   },
   {
     "name": "Sweat Records Miami",
     "photo url": "Sweat Records.jpg",
+    "photographer": "Paolo Santosuosso",
     "category": "Locations",
     "blurb": "For vinyl fans and music lovers, Sweat Records is a must. In addition to being one of Miami’s only indie record stores, Sweat Records is a coffee shop and an event space. It's also conveniently located next to Churchill's Pub, a local venue known for its punk music. The building's facade is draped in a beautiful mural of musical icons including Daft Punk, MF Doom, David Bowie and the Notorious B.I.G. The store is small, yet it boasts an impressive, colorful collection for visitors to peruse, ranging from classic titles to new indie records and everything in between. With 90 percent vinyl, 10 percent CDs and about 10,000 records to choose from, Sweat Records has something for everybody, even the hipster who swears he liked your favorite band before they were cool. Sweat Records is open noon to 10 p.m. Mondays through Saturdays, and noon to 5 p.m. on Sundays.",
     "address": "5505 NE 2nd Ave., Miami.",
     "phone": "786-693-9309",
     "author": "Tristan Niskanen",
     "category section": "Best throwback",
-    "voted": "no",
-    "": "",
-    "photographer": ""
+    "voted": "no"
   },
   {
     "name": "Bardot",
     "photo url": "Bardot.jpg",
+    "photographer": "Bardot",
     "category": "Locations",
     "blurb": "Local musicians, bands and D.J.s perform at Bardot, a cool, laid-back lounge in Miami’s Design District. The dim, intimate venue features musical guests every night and allows for guest reservations and applications to book performances on their website. The bar serves a wide variety of drinks. For music fans, this is a must-stop lounge to grab a glass of wine and watch a show. For musicians, Bardot is a well-known, respected venue to showcase real talent. Make sure to start your weekend off right with a trip to Bardot, open 10 p.m. to 5 a.m. Tuesday through Saturday, closed Sunday through Monday.",
     "address": "3456 N. Miami Ave Miami, FL 33127",
     "phone": "305-576-5570",
     "author": "Alyssa Bolt",
     "category section": "Best music venue",
-    "voted": "yes",
-    "": "",
-    "photographer": ""
+    "voted": "yes"
   },
   {
     "name": "Spanish Monastery",
     "photo url": "Spanish Monastery Alphonso VIII to Lady Shrine.jpg",
+    "photographer": "The Ancient Spanish Monastery",
     "category": "Locations",
     "blurb": "The Cloisters of St. Bernard de Clairvaux were built in the 10th century. Also known as the Ancient Spanish Monastery, this historic landmark was originally located in Segovia, Spain, but was deconstructed and relocated to North Miami Beach, where it was rebranded as an Episcopalian church. The cloisters’ journey to the U.S. – made possible by newspaper magnate William Randolph Hearst’s purchase – was a mission that TIME Magazine dubbed “the biggest jigsaw puzzle in history.” The Monastery currently houses a variety of Romanesque and pre-Gothic artifacts, ranging from Pope Urban VII’s clothing cabinet to two out of the three remaining telescopic windows from the medieval period, and beautiful botanical gardens to boot. Channel your inner Chaucer by embarking on a mini-pilgrimage through the hidden labyrinth on the nature path. The visit is an immersive experience that temporarily removes you from both the 21st century and the city of Miami. Admission is $5 for students and $10 for adults. Open Monday through Saturday from 10 a.m. to 4:30 p.m., and Sunday from 11 a.m. to 4:30 p.m.",
     "address": "16711 W Dixie Hwy, North Miami Beach, FL 33160",
     "phone": "305-945-1461",
     "author": "Adrianne Babun-Chavarria",
     "category section": "Best historical landmark",
-    "voted": "no",
-    "": "",
-    "photographer": ""
+    "voted": "no"
   },
   {
     "name": "Dinner at Miracle Mile",
     "photo url": "Miracle Mile_HC.jpg",
+    "photographer": "Hunter Crenian, Staff Photographer",
     "category": "Locations",
     "blurb": "Once you've snagged a number from that cutie in Math 101, it's time to plan the first date. Miami is a huge city known for its sex appeal, but no place near campus will offer as much getting-to-know-you charm or as many options as Miracle Mile, the strip of stores and restaurants along Coral Way between LeJeune and Douglas Rd. The Mile – which is actually only about half a mile long – has just enough action to fill the silences, and enough intimate settings to facilitate conversation. There is no shortage of first-date worthy spots along Miracle Mile, so the real choice is deciding whether you and your date want to share a plate of spaghetti bolognese a la \"Lady and the Tramp\" or clink beers at a nearby bar. The best part: a short 10-minute drive from campus will give you a full night of entertainment. Find restaurants, bars, ice cream shops, stores and a theater all in a one-mile radius. The city also hosts weekly farmer's markets, festivals and events on the stretch throughout the year, if a daytime date is more your style.The Mile is currently under construction as the city tries to make it more pedestrian-friendly, but businesses remain open. Find the calendar and a full listing of what's on Miracle Mile at shopcoralgables.com.",
     "address": "Miracle Mile, Miami",
     "phone": "",
     "author": "Isabella Cueto",
     "category section": "Best first date spot",
-    "voted": "yes",
-    "": "",
-    "photographer": ""
+    "voted": "yes"
   },
   {
     "name": "Pinetree Park",
     "photo url": "Pinetree Park_HM.jpg",
+    "photographer": "Hallee Meltzer, Photo Editor",
     "category": "Locations",
     "blurb": "In Miami Beach, Pinetree Park is a serene, natural area that features a walking trail, a kayak and boat-launching area, a dog park and plenty of open, grassy space to kick back and relax. It's the perfect place to take advantage of a sunny afternoon and picnic with friends. Pinetree Park even has a community garden with plots available for rent so locals can grow their own vegetables and fruits. The park also includes views of Millionaires' Row, home to the likes of Michael Bay, Enrique Iglesias and Phil Collins. The park is open seven days a week from dawn to dusk, so there’s plenty of time to get off the couch and check out this beautiful park. Admission and parking are free.",
     "address": "4411 Pine Tree Drive, Miami Beach, Fla. 33140",
     "phone": "305-673-7730",
     "author": "Mukta Vibhute",
     "category section": "Best place to get fresh air",
-    "voted": "no",
-    "": "",
-    "photographer": ""
+    "voted": "no"
   }
 ];

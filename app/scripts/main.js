@@ -1,6 +1,5 @@
 $(document).ready(function() {
 
-
     function makeBoxes() {
 
       var $grid =  $('.grid');
@@ -29,13 +28,14 @@ $(document).ready(function() {
 
       });
 
-       $grid.imagesLoaded( function() {
+      $grid.imagesLoaded( function() {
           // init Isotope after all images have loaded
           $grid.isotope({
             // options
             itemSelector: '.box',
             layoutMode: 'masonry'
           });
+
         });
 
     }
@@ -53,7 +53,7 @@ $(document).ready(function() {
       var phoneNumber = $('.phone-number');
 
       //category.text(that.data('category'));
-      categoryname.text(that.data('category section') + ": ");
+      categoryname.text(that.data('category section') + ':  ');
       name.text(that.data('name'));
       blurb.text(that.data('blurb'));
       author.text('Words by ' + that.data('author'));
@@ -89,6 +89,8 @@ $(document).ready(function() {
 
     }
 
+
+
     $(window).scroll(function(){
   		if ($(this).scrollTop() > 1200) {
   			$('.backtotop').fadeIn();
@@ -97,16 +99,20 @@ $(document).ready(function() {
   		}
   	});
 
+
+
   	//Click event to scroll to top
-  	$('.backtotop').click(function(){
-  		$('html, body').animate({scrollTop : 250},800);
+  	$('.backtotop').on('click touchstart', function(){
+  		$('html, body').animate({scrollTop : 0},800);
   		return false;
   	});
 
     makeBoxes();
 
-    $('.box').click(makeSinglePage);
-    $('.sort-box-holder p').click(doFilter);
+    $('.box').on('click touchstart', makeSinglePage);
+    $('.sort-box-holder p').on('click', doFilter);
+
+
 
    // Initialize the popup plugin
    $('#my_popup').popup({
@@ -115,5 +121,7 @@ $(document).ready(function() {
       transition: '0.3s',
       scrolllock: true
    });
+
+
 
 });
